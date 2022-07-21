@@ -1,8 +1,10 @@
+# Lab 1
 Nội dung bài tập thực hành:
 
 Hãy làm các bài lab theo link dưới đây và đảm bảo rằng bạn sẽ không xoá repositories cho đến khi kết thúc môn học. Lưu kết quả bài Lab trên Githup. Riêng ở Lab 01 này có các mục 1,2,4 hãy chụp ảnh kết quả cuối cùng và lưu lại. Để việc thực hành dễ dàng hơn, bạn có thể tham khảo sử dụng các extension sau cho VSCode: Prettier, ESLint, ES6 Code Snippet, Git Graph (xem SourceTree biểu đồ nhánh code, lịch sử commit).
 
 Học viên vào link Video trên Coursera để xem chi tiết yêu cầu của bài lab, bản dịch đính kèm chỉ hỗ trợ dịch text. 
+
 
 1. Lab (Video): Cài đặt Git https://www.coursera.org/learn/front-end-react/lecture/JSubl/exercise-video-setting-up-git 
 
